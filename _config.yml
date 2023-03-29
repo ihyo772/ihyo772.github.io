@@ -19,7 +19,7 @@ locale                   : "South Korea"
 title                    : "Leeyou note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hi I'm leeyou"
+name                     : "Hi I'm Yeona"
 description              : "Data analytics, Programming, Python, C/C++, Data Science"
 url                      : "https://ihyo772.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
