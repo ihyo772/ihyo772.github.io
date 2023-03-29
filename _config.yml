@@ -12,17 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "defalut" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "South Korea"
-title                    : "Leeyou note"
+locale                   : "en-US"
+title                    : "yeona note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hi I'm Yeona"
-description              : "Data analytics, Programming, Python, C/C++, Data Science"
-url                      : "https://ihyo772.github.io"
+name                     : "yeona"
+description              : "data analytics & data engineering"
+url                      : "https://ihyo772.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -105,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "yeona"
+  name             : "Yeona"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data scientist & engineer at Samsung Electronics"
-  location         : "Hwasung in Republic of South Korea"
-  email            : "hyleeyou@gmail.com"
+  bio              : "Statistics master degree at Korea Univ.  Data scientist & engineer at Samsung Electronics"
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:hyleeyou@gmail.com"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ihyo772"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/ihyo772"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
