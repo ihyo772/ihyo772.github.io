@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Statistics master degree at Korea Univ."  "Data scientist & engineer at Samsung Electronics"
   location         : "South Korea"
-  email            :
+  email            : "hyleeyou@gmail.com" "hyforyou.lee@samsung.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hyleeyou@gmail.com"
+      # url: "mailto:hyleeyou@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
